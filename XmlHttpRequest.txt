@@ -1,0 +1,1 @@
+Esto es un objeto que interactua con servidores, puedes obtener datos de la url, sin cargar la pagina completa
